@@ -33,8 +33,6 @@ int main()
         }
     }
 
-
-
     // Print out final array
     for (int x = 0; x < kArrayLen; ++x)
     {
